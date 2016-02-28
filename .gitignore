@@ -1,0 +1,6 @@
+# NPM modules
+node_modules/
+
+# Build result
+main.js
+style.css
